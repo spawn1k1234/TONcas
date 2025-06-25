@@ -1,0 +1,7 @@
+{
+  "manifest_version": "1",
+  "name": "TON Game App",
+  "description": "Купить монеты за TON",
+  "url": "https://your-vercel-app.vercel.app",
+  "icons": ["https://your-vercel-app.vercel.app/icon.png"]
+}
